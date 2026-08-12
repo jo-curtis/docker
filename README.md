@@ -1,6 +1,6 @@
 # Docker Containers — Commands, Setup, Management & Maintenance
 
-## A practical reference for working with Docker containers, including installation, images, containers, volumes, networks, logs, resource management, troubleshooting, cleanup, and basic security practices.
+A practical reference for working with Docker containers, including installation, images, containers, volumes, networks, logs, resource management, troubleshooting, cleanup, and basic security practices.
 
 ### Docker Help
 Display general help:
